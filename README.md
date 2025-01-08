@@ -8,3 +8,6 @@ To run, we recommend using the text version of VMD:
 _vmd -dispdev text -e latched_v1.tcl_
 
 The script will create 3 text files showing the piercing calculation (if intersects or not), if the structure is pre-lasso or pre-tadpole, and if it is a pre-lasso - left or right hand.
+
+
+Now available on Zedono: https://zenodo.org/records/14618067 
